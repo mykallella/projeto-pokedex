@@ -1,2 +1,2 @@
 # projeto-pokedex
- Site com cartões de Pokémons capturados da API PokéAPI
+Site com cards de Pokémons capturados da PokéAPI
